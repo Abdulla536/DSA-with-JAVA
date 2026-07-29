@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0268-missing-number](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -45,5 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0338-counting-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -68,5 +68,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0061-rotate-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

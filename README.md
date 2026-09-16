@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0061-rotate-list) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0496-next-greater-element-i) |
 ## Tree
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abdulla536/DSA-with-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
